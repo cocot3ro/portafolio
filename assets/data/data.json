@@ -1,128 +1,127 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Pablo Otero Castro | Portafolio",
+    "description": "",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Pablo Otero Castro",
+    "skill": "Desarrollador Java y Android",
+    "location": "Sanxenxo, Pontevedra",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "pablooterocastro15@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/cocot3ro",
+        "likedin": "https://www.linkedin.com/in/pablo-otero-castro/"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "icon": "devicon-java-original",
+            "name": "Java"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "icon": "devicon-spring-plain-wordmark",
+            "name": "Spring Boot"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
+            "icon": "devicon-kotlin-original",
+            "name": "Kotlin"
         },
         {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-androidstudio-original-wordmark",
+            "name": "Android"
         },
         {
-            "icon": "devicon-python-plain",
-            "name": "Python"
+            "icon": "devicon-csharp-original",
+            "name": "C#"
         }
     ],
     "experience": [
         {
-            "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
-        },
-        {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "icon": "devicon-dotnetcore-plain",
+            "title": "PlaceIn",
+            "subtitle": "Estudiante en prácticas",
+            "description": "Desarrollo de aplicaciones web con Blazor y ASP.NET Core.",
+            "date": "Abril - Junio 2024"
         }
     ],
     "projects": [
         {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "icon": "devicon-android-plain-wordmark",
+            "title": "MiPastillero",
+            "subtitle": "Proyecto de fin de grado",
+            "description": "Aplicacion de gestión de medicamentos",
             "technologies": [
                 {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
+                    "icon": "devicon-kotlin-original",
+                    "name": "Kotlin"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-androidstudio-original-wordmark",
+                    "name": "Android"
+                },
+                {
+                    "name": "Room"
+                },
+                {
+                    "name": "Retrofit"
+                },
+                {
+                    "name": "Dagger Hilt"
                 }
             ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "github": "https://github.com/cocot3ro/MiPastillero"
         },
         {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "icon": "devicon-spring-plain-wordmark",
+            "title": "GestionHotel",
+            "subtitle": "Aplicación de gestión de un negocio hotelero",
+            "description": "Actualmente solo se encuentra desarrollada la función de gestión del almacen de productos.",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-kotlin-original",
+                    "name": "Kotlin"
+                },
+                {
+                    "icon": "devicon-java-original",
+                    "name": "Java"
+                },
+                {
+                    "icon": "devicon-spring-plain-wordmark",
+                    "name": "Spring Boot"
+                },
+                {
+                    "name": "Hibernate y JPA"
+                },
+                {
+                    "name": "RSocket"
+                },
+                {
+                    "icon": "devicon-androidstudio-original-wordmark",
+                    "name": "Android"
                 }
             ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "github": "https://github.com/cocot3ro/GestionHotel"
         }
     ],
     "training": [
         {
+            "icon": "graduation-cap",
+            "title": "CFGS Desarrollo de Aplicaciones Multiplataforma (2º año)",
+            "subtitle": "IES San Clemente | Santiago de Compostela",
+            "date": "Septiembre 2023 - Junio 2024"
+        },
+        {
             "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "CFGS Desarrollo de Aplicaciones Multiplataforma (1º año)",
+            "subtitle": "IES Armando Cotarelo Valledor | Vilagarcía de Arousa",
+            "date": "Septiembre 2022 - Junio 2023"
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "CFGM Sistemas Microinformáticos y Redes",
+            "subtitle": "IES Monte da Vila | O Grove",
+            "date": "Septiembre 2020 - Junio 2022"
         }
     ],
-    "extras": [
-        {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
-        }
-    ]
+    "extras": []
 }
