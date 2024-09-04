@@ -113,18 +113,21 @@
             "icon": "graduation-cap",
             "title": "CFGS Desarrollo de Aplicaciones Multiplataforma (2º año)",
             "subtitle": "IES San Clemente | Santiago de Compostela",
+            "description": "",
             "date": "Septiembre 2023 - Junio 2024"
         },
         {
             "icon": "backpack",
             "title": "CFGS Desarrollo de Aplicaciones Multiplataforma (1º año)",
             "subtitle": "IES Armando Cotarelo Valledor | Vilagarcía de Arousa",
+            "description": "",
             "date": "Septiembre 2022 - Junio 2023"
         },
         {
             "icon": "graduation-cap",
             "title": "CFGM Sistemas Microinformáticos y Redes",
             "subtitle": "IES Monte da Vila | O Grove",
+            "description": "",
             "date": "Septiembre 2020 - Junio 2022"
         }
     ],
