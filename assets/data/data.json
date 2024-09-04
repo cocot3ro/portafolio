@@ -60,12 +60,15 @@
                     "name": "Android"
                 },
                 {
+                    "icon": "",
                     "name": "Room"
                 },
                 {
+                    "icon": "",
                     "name": "Retrofit"
                 },
                 {
+                    "icon": "",
                     "name": "Dagger Hilt"
                 }
             ],
@@ -90,9 +93,11 @@
                     "name": "Spring Boot"
                 },
                 {
+                    "icon": "",
                     "name": "Hibernate y JPA"
                 },
                 {
+                    "icon": "",
                     "name": "RSocket"
                 },
                 {
