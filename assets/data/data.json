@@ -37,7 +37,7 @@
     ],
     "experience": [
         {
-            "icon": "devicon-dotnetcore-plain",
+            "icon": "devicon-dotnetcore-original",
             "title": "PlaceIn",
             "subtitle": "Estudiante en prácticas",
             "description": "Desarrollo de aplicaciones web con Blazor y ASP.NET Core.",
