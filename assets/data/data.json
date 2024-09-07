@@ -79,7 +79,7 @@
         {
             "icon": "tablet-smartphone",
             "title": "GestionHotel",
-            "subtitle": "Aplicación de gestión de un negocio hotelero",
+            "subtitle": "Aplicación Cliente-Servidor para la gestión de un negocio hotelero. Desarrollada con Java, Spring Boot y Android durante mi periodo trabajando como camarero.",
             "description": "Actualmente solo se encuentra desarrollada la función de gestión del almacen de productos.",
             "technologies": [
                 {
@@ -138,5 +138,12 @@
             "certificate": ""
         }
     ],
-    "extras": []
+    "extras": [
+        {
+            "image": "/rust.png",
+            "title": "Rust",
+            "description": "Aprendiendo Rust en mi tiempo libre.",
+            "url": ""
+        }
+    ]
 }
