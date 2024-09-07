@@ -56,7 +56,7 @@
                     "name": "Kotlin"
                 },
                 {
-                    "icon": "devicon-androidstudio-plain",
+                    "icon": "devicon-android-plain",
                     "name": "Android"
                 },
                 {
@@ -103,7 +103,7 @@
                     "name": "RSocket"
                 },
                 {
-                    "icon": "devicon-androidstudio-plain",
+                    "icon": "devicon-android-plain",
                     "name": "Android"
                 }
             ],
