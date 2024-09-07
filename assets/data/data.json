@@ -1,8 +1,8 @@
 {
     "title": "Pablo Otero Castro | Portafolio",
     "description": "Descripción",
-    "image": "/favicon.ico",
-    "avatar": "/favicon.ico",
+    "image": "/impine.png",
+    "avatar": "/impine.png",
     "name": "Pablo Otero Castro",
     "skill": "Desarrollador Java y Android",
     "location": "Sanxenxo, Pontevedra",
@@ -15,29 +15,29 @@
     "about": "",
     "technologies": [
         {
-            "icon": "devicon-java-original",
+            "icon": "devicon-java-plain",
             "name": "Java"
         },
         {
-            "icon": "devicon-spring-plain-wordmark",
+            "icon": "devicon-spring-plain",
             "name": "Spring Boot"
         },
         {
-            "icon": "devicon-kotlin-original",
+            "icon": "devicon-kotlin-plain",
             "name": "Kotlin"
         },
         {
-            "icon": "devicon-androidstudio-original-wordmark",
+            "icon": "devicon-androidstudio-plain",
             "name": "Android"
         },
         {
-            "icon": "devicon-csharp-original",
+            "icon": "devicon-csharp-plain",
             "name": "C#"
         }
     ],
     "experience": [
         {
-            "icon": "box-select",
+            "icon": "terminal",
             "title": "PlaceIn",
             "subtitle": "Estudiante en prácticas",
             "description": "Desarrollo de aplicaciones web con Blazor y ASP.NET Core.",
@@ -52,11 +52,11 @@
             "description": "Aplicacion de gestión de medicamentos",
             "technologies": [
                 {
-                    "icon": "devicon-kotlin-original",
+                    "icon": "devicon-kotlin-plain",
                     "name": "Kotlin"
                 },
                 {
-                    "icon": "devicon-androidstudio-original-wordmark",
+                    "icon": "devicon-androidstudio-plain",
                     "name": "Android"
                 },
                 {
@@ -83,15 +83,15 @@
             "description": "Actualmente solo se encuentra desarrollada la función de gestión del almacen de productos.",
             "technologies": [
                 {
-                    "icon": "devicon-kotlin-original",
+                    "icon": "devicon-kotlin-plain",
                     "name": "Kotlin"
                 },
                 {
-                    "icon": "devicon-java-original",
+                    "icon": "devicon-java-plain",
                     "name": "Java"
                 },
                 {
-                    "icon": "devicon-spring-plain-wordmark",
+                    "icon": "devicon-spring-plain",
                     "name": "Spring Boot"
                 },
                 {
@@ -103,7 +103,7 @@
                     "name": "RSocket"
                 },
                 {
-                    "icon": "devicon-androidstudio-original-wordmark",
+                    "icon": "devicon-androidstudio-plain",
                     "name": "Android"
                 }
             ],
