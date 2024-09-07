@@ -37,7 +37,7 @@
     ],
     "experience": [
         {
-            "icon": "devicon-dotnetcore-original",
+            "icon": "box-select",
             "title": "PlaceIn",
             "subtitle": "Estudiante en prácticas",
             "description": "Desarrollo de aplicaciones web con Blazor y ASP.NET Core.",
@@ -46,7 +46,7 @@
     ],
     "projects": [
         {
-            "icon": "devicon-android-plain-wordmark",
+            "icon": "smartphone",
             "title": "MiPastillero",
             "subtitle": "Proyecto de fin de grado",
             "description": "Aplicacion de gestión de medicamentos",
@@ -77,7 +77,7 @@
             "github": "https://github.com/cocot3ro/MiPastillero"
         },
         {
-            "icon": "devicon-spring-plain-wordmark",
+            "icon": "tablet-smartphone",
             "title": "GestionHotel",
             "subtitle": "Aplicación de gestión de un negocio hotelero",
             "description": "Actualmente solo se encuentra desarrollada la función de gestión del almacen de productos.",
