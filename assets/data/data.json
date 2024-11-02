@@ -1,10 +1,10 @@
 {
     "title": "Pablo Otero Castro | Portafolio",
-    "description": "Descripción",
+    "description": "",
     "image": "/impine.ico",
-    "avatar": "/impine.ico",
+    "avatar": "/image.jpg",
     "name": "Pablo Otero Castro",
-    "skill": "Desarrollador Java y Android",
+    "skill": "Desarrollador Android y Java",
     "location": "Sanxenxo, Pontevedra",
     "media": {
         "email": "pablooterocastro15@gmail.com",
@@ -12,7 +12,7 @@
         "github": "https://github.com/cocot3ro",
         "likedin": "https://www.linkedin.com/in/pablo-otero-castro/"
     },
-    "about": "",
+    "about": "Desarrollo aplicaciones para Android y escritorio con Java y Kotlin.",
     "technologies": [
         {
             "icon": "devicon-java-plain",
@@ -49,7 +49,7 @@
             "icon": "smartphone",
             "title": "MiPastillero",
             "subtitle": "Proyecto de fin de grado",
-            "description": "Aplicacion de gestión de medicamentos",
+            "description": "Aplicacion de gestión de medicamentos. Lleva al día tus tratamientos con recordatorios personalizados.",
             "technologies": [
                 {
                     "icon": "devicon-kotlin-plain",
