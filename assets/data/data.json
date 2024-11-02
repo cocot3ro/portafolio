@@ -15,20 +15,20 @@
     "about": "Desarrollo aplicaciones para Android y escritorio con Java y Kotlin.",
     "technologies": [
         {
-            "icon": "devicon-java-plain",
-            "name": "Java"
-        },
-        {
-            "icon": "devicon-spring-plain",
-            "name": "Spring Boot"
-        },
-        {
             "icon": "devicon-kotlin-plain",
             "name": "Kotlin"
         },
         {
             "icon": "devicon-androidstudio-plain",
             "name": "Android"
+        },
+        {
+            "icon": "devicon-java-plain",
+            "name": "Java"
+        },
+        {
+            "icon": "devicon-spring-plain",
+            "name": "Spring Boot"
         },
         {
             "icon": "devicon-csharp-plain",
@@ -108,8 +108,27 @@
                 }
             ],
             "image": "",
-            "url": "",
+            "url": "https://cocot3ro.github.io/GestionHotel-Suite",
             "github": "https://github.com/cocot3ro/GestionHotel-Suite"
+        },
+        {
+            "icon": "tablet-smartphone",
+            "title": "RustElectricity",
+            "subtitle": "Crea y comparte esquemas electricos con los componentes del videojuego Rust",
+            "description": "Desarrollada para Android con Jetpack Compose",
+            "technologies": [
+                {
+                    "icon": "devicon-kotlin-plain",
+                    "name": "Kotlin"
+                },
+                {
+                    "icon": "devicon-android-plain",
+                    "name": "Android"
+                }
+            ],
+            "image": "",
+            "url": "https://cocot3ro.github.io/RustElectricity",
+            "github": "https://github.com/cocot3ro/RustElectricity"
         }
     ],
     "training": [
