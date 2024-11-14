@@ -157,12 +157,5 @@
             "certificate": ""
         }
     ],
-    "extras": [
-        {
-            "image": "/rust.png",
-            "title": "Rust",
-            "description": "Aprendiendo Rust en mi tiempo libre.",
-            "url": ""
-        }
-    ]
+    "extras": []
 }
