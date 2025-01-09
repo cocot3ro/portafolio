@@ -31,4 +31,4 @@ def extra(extras: list[Extra]) -> rx.Component:
         ),
         spacing=Size.DEFAULT.value,
         width="100%"
-    )
+    ) if extras.count > 0 else rx.vstack()
