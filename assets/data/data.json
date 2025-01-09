@@ -4,19 +4,23 @@
     "image": "/impine.ico",
     "avatar": "/image.jpg",
     "name": "Pablo Otero Castro",
-    "skill": "Desarrollador Android y Java",
+    "skill": "Desarrollador de Software Multiplataforma",
     "location": "Sanxenxo, Pontevedra",
     "media": {
         "email": "pablooterocastro15@gmail.com",
         "cv": "/data/cv.pdf",
         "github": "https://github.com/cocot3ro",
-        "likedin": "https://www.linkedin.com/in/pablo-otero-castro/"
+        "likedin": "https://www.linkedin.com/in/potero-castro/"
     },
-    "about": "Desarrollo aplicaciones para Android y escritorio con Java y Kotlin.",
+    "about": "Desarrollo aplicaciones para móviles y escritorio con Kotlin Multiplatform",
     "technologies": [
         {
             "icon": "devicon-kotlin-plain",
             "name": "Kotlin"
+        },
+        {
+            "icon": "devicon-kotlin-plain",
+            "name": "Kotlin Multiplatform"
         },
         {
             "icon": "devicon-androidstudio-plain",
@@ -134,11 +138,19 @@
     "training": [
         {
             "icon": "graduation-cap",
+            "title": "Android Application Building",
+            "subtitle": "Centro de Novas Tecnoloxías de Galicia",
+            "description": "",
+            "date": "Noviembre 2024",
+            "certificate": "XTIFCD2314__OTERO CASTRO, PABLO__77421357E__.pdf"
+        },
+        {
+            "icon": "graduation-cap",
             "title": "CFGS Desarrollo de Aplicaciones Multiplataforma (2º año)",
             "subtitle": "IES San Clemente | Santiago de Compostela",
             "description": "",
             "date": "Septiembre 2023 - Junio 2024",
-            "certificate": ""
+            "certificate": "europass_DAM.pdf"
         },
         {
             "icon": "backpack",
