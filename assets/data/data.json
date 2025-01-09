@@ -82,6 +82,25 @@
         },
         {
             "icon": "tablet-smartphone",
+            "title": "RustElectricity",
+            "subtitle": "Crea y comparte esquemas electricos con los componentes del videojuego Rust",
+            "description": "Desarrollada para Android con Jetpack Compose",
+            "technologies": [
+                {
+                    "icon": "devicon-kotlin-plain",
+                    "name": "Kotlin"
+                },
+                {
+                    "icon": "devicon-android-plain",
+                    "name": "Android"
+                }
+            ],
+            "image": "",
+            "url": "https://cocot3ro.github.io/RustElectricity",
+            "github": "https://github.com/cocot3ro/RustElectricity"
+        },
+        {
+            "icon": "tablet-smartphone",
             "title": "GestionHotel",
             "subtitle": "Una suite de aplicaciones para la gestión de un negocio hotelero. Desarrollada con Java, Spring Boot y Android durante mi periodo trabajando como camarero.",
             "description": "Actualmente solo se encuentra desarrollada la función de gestión del almacen de productos.",
@@ -114,25 +133,6 @@
             "image": "",
             "url": "https://cocot3ro.github.io/GestionHotel-Suite",
             "github": "https://github.com/cocot3ro/GestionHotel-Suite"
-        },
-        {
-            "icon": "tablet-smartphone",
-            "title": "RustElectricity",
-            "subtitle": "Crea y comparte esquemas electricos con los componentes del videojuego Rust",
-            "description": "Desarrollada para Android con Jetpack Compose",
-            "technologies": [
-                {
-                    "icon": "devicon-kotlin-plain",
-                    "name": "Kotlin"
-                },
-                {
-                    "icon": "devicon-android-plain",
-                    "name": "Android"
-                }
-            ],
-            "image": "",
-            "url": "https://cocot3ro.github.io/RustElectricity",
-            "github": "https://github.com/cocot3ro/RustElectricity"
         }
     ],
     "training": [
@@ -142,7 +142,7 @@
             "subtitle": "Centro de Novas Tecnoloxías de Galicia",
             "description": "",
             "date": "Noviembre 2024",
-            "certificate": "XTIFCD2314__OTERO CASTRO, PABLO__77421357E__.pdf"
+            "certificate": "/data/XTIFCD2314__OTERO CASTRO, PABLO__77421357E__.pdf"
         },
         {
             "icon": "graduation-cap",
@@ -150,7 +150,7 @@
             "subtitle": "IES San Clemente | Santiago de Compostela",
             "description": "",
             "date": "Septiembre 2023 - Junio 2024",
-            "certificate": "europass_DAM.pdf"
+            "certificate": "/data/europass_DAM.pdf"
         },
         {
             "icon": "backpack",
@@ -168,6 +168,5 @@
             "date": "Septiembre 2020 - Junio 2022",
             "certificate": ""
         }
-    ],
-    "extras": []
+    ]
 }
