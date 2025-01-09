@@ -83,16 +83,20 @@
         {
             "icon": "tablet-smartphone",
             "title": "RustElectricity",
-            "subtitle": "Crea y comparte esquemas electricos con los componentes del videojuego Rust",
-            "description": "Desarrollada para Android con Jetpack Compose",
+            "subtitle": "Crea y comparte esquemas electricos utilizando componentes del videojuego Rust",
+            "description": "Desarrollada con soporte multiplataforma con Kotlin Multiplatform y Compose Multiplatform. Actualmente en desarrollo para Android y escritorio",
             "technologies": [
                 {
                     "icon": "devicon-kotlin-plain",
                     "name": "Kotlin"
                 },
                 {
-                    "icon": "devicon-android-plain",
-                    "name": "Android"
+                    "icon": "devicon-kotlin-plain",
+                    "name": "Kotlin Multiplatform"
+                },
+                {
+                    "icon": "",
+                    "name": "Compose Multiplatform"
                 }
             ],
             "image": "",
@@ -168,5 +172,6 @@
             "date": "Septiembre 2020 - Junio 2022",
             "certificate": ""
         }
-    ]
+    ],
+    "extras": []
 }
