@@ -106,28 +106,12 @@
         {
             "icon": "tablet-smartphone",
             "title": "GestionHotel",
-            "subtitle": "Una suite de aplicaciones para la gestión de un negocio hotelero. Desarrollada con Java, Spring Boot y Android durante mi periodo trabajando como camarero.",
-            "description": "Actualmente solo se encuentra desarrollada la función de gestión del almacen de productos.",
+            "subtitle": "Una aplicación cliente servidor para la gestión del stock de un almacén. Desarrollada con Kotlin Multiplatform, Ktor y Compose Multiplaform.",
+            "description": "",
             "technologies": [
                 {
                     "icon": "devicon-kotlin-plain",
                     "name": "Kotlin"
-                },
-                {
-                    "icon": "devicon-java-plain",
-                    "name": "Java"
-                },
-                {
-                    "icon": "devicon-spring-plain",
-                    "name": "Spring Boot"
-                },
-                {
-                    "icon": "",
-                    "name": "Hibernate y JPA"
-                },
-                {
-                    "icon": "",
-                    "name": "RSocket"
                 },
                 {
                     "icon": "devicon-android-plain",
