@@ -82,29 +82,6 @@
         },
         {
             "icon": "tablet-smartphone",
-            "title": "RustElectricity",
-            "subtitle": "Crea y comparte esquemas electricos utilizando componentes del videojuego Rust",
-            "description": "Desarrollada con soporte multiplataforma con Kotlin Multiplatform y Compose Multiplatform. Actualmente en desarrollo para Android y escritorio",
-            "technologies": [
-                {
-                    "icon": "devicon-kotlin-plain",
-                    "name": "Kotlin"
-                },
-                {
-                    "icon": "devicon-kotlin-plain",
-                    "name": "Kotlin Multiplatform"
-                },
-                {
-                    "icon": "",
-                    "name": "Compose Multiplatform"
-                }
-            ],
-            "image": "",
-            "url": "https://cocot3ro.github.io/RustElectricity",
-            "github": "https://github.com/cocot3ro/RustElectricity"
-        },
-        {
-            "icon": "tablet-smartphone",
             "title": "GestionHotel",
             "subtitle": "Una aplicación cliente servidor para la gestión del stock de un almacén. Desarrollada con Kotlin Multiplatform, Ktor y Compose Multiplaform.",
             "description": "",

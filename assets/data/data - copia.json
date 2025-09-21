@@ -1,0 +1,161 @@
+{
+    "title": "Pablo Otero Castro | Portafolio",
+    "description": "",
+    "image": "/impine.ico",
+    "avatar": "/image.jpg",
+    "name": "Pablo Otero Castro",
+    "skill": "Desarrollador de Software Multiplataforma",
+    "location": "Sanxenxo, Pontevedra",
+    "media": {
+        "email": "pablooterocastro15@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/cocot3ro",
+        "likedin": "https://www.linkedin.com/in/potero-castro/"
+    },
+    "about": "Desarrollo aplicaciones para móviles y escritorio con Kotlin Multiplatform",
+    "technologies": [
+        {
+            "icon": "devicon-kotlin-plain",
+            "name": "Kotlin"
+        },
+        {
+            "icon": "devicon-kotlin-plain",
+            "name": "Kotlin Multiplatform"
+        },
+        {
+            "icon": "devicon-androidstudio-plain",
+            "name": "Android"
+        },
+        {
+            "icon": "devicon-java-plain",
+            "name": "Java"
+        },
+        {
+            "icon": "devicon-spring-plain",
+            "name": "Spring Boot"
+        },
+        {
+            "icon": "devicon-csharp-plain",
+            "name": "C#"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "terminal",
+            "title": "PlaceIn",
+            "subtitle": "Estudiante en prácticas",
+            "description": "Desarrollo de aplicaciones web con Blazor y ASP.NET Core.",
+            "date": "Abril - Junio 2024"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "smartphone",
+            "title": "MiPastillero",
+            "subtitle": "Proyecto de fin de grado",
+            "description": "Aplicacion de gestión de medicamentos. Lleva al día tus tratamientos con recordatorios personalizados.",
+            "technologies": [
+                {
+                    "icon": "devicon-kotlin-plain",
+                    "name": "Kotlin"
+                },
+                {
+                    "icon": "devicon-android-plain",
+                    "name": "Android"
+                },
+                {
+                    "icon": "",
+                    "name": "Room"
+                },
+                {
+                    "icon": "",
+                    "name": "Retrofit"
+                },
+                {
+                    "icon": "",
+                    "name": "Dagger Hilt"
+                }
+            ],
+            "image": "",
+            "url": "",
+            "github": "https://github.com/cocot3ro/MiPastillero"
+        },
+        {
+            "icon": "tablet-smartphone",
+            "title": "RustElectricity",
+            "subtitle": "Crea y comparte esquemas electricos utilizando componentes del videojuego Rust",
+            "description": "Desarrollada con soporte multiplataforma con Kotlin Multiplatform y Compose Multiplatform. Actualmente en desarrollo para Android y escritorio",
+            "technologies": [
+                {
+                    "icon": "devicon-kotlin-plain",
+                    "name": "Kotlin"
+                },
+                {
+                    "icon": "devicon-kotlin-plain",
+                    "name": "Kotlin Multiplatform"
+                },
+                {
+                    "icon": "",
+                    "name": "Compose Multiplatform"
+                }
+            ],
+            "image": "",
+            "url": "https://cocot3ro.github.io/RustElectricity",
+            "github": "https://github.com/cocot3ro/RustElectricity"
+        },
+        {
+            "icon": "tablet-smartphone",
+            "title": "GestionHotel",
+            "subtitle": "Una aplicación cliente servidor para la gestión del stock de un almacén. Desarrollada con Kotlin Multiplatform, Ktor y Compose Multiplaform.",
+            "description": "",
+            "technologies": [
+                {
+                    "icon": "devicon-kotlin-plain",
+                    "name": "Kotlin"
+                },
+                {
+                    "icon": "devicon-android-plain",
+                    "name": "Android"
+                }
+            ],
+            "image": "",
+            "url": "https://cocot3ro.github.io/GestionHotel-Suite",
+            "github": "https://github.com/cocot3ro/GestionHotel-Suite"
+        }
+    ],
+    "training": [
+        {
+            "icon": "graduation-cap",
+            "title": "Android Application Building",
+            "subtitle": "Centro de Novas Tecnoloxías de Galicia",
+            "description": "",
+            "date": "Noviembre 2024",
+            "certificate": "/data/XTIFCD2314__OTERO CASTRO, PABLO__77421357E__.pdf"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "CFGS Desarrollo de Aplicaciones Multiplataforma (2º año)",
+            "subtitle": "IES San Clemente | Santiago de Compostela",
+            "description": "",
+            "date": "Septiembre 2023 - Junio 2024",
+            "certificate": "/data/europass_DAM.pdf"
+        },
+        {
+            "icon": "backpack",
+            "title": "CFGS Desarrollo de Aplicaciones Multiplataforma (1º año)",
+            "subtitle": "IES Armando Cotarelo Valledor | Vilagarcía de Arousa",
+            "description": "",
+            "date": "Septiembre 2022 - Junio 2023",
+            "certificate": ""
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "CFGM Sistemas Microinformáticos y Redes",
+            "subtitle": "IES Monte da Vila | O Grove",
+            "description": "",
+            "date": "Septiembre 2020 - Junio 2022",
+            "certificate": ""
+        }
+    ],
+    "extras": []
+}
