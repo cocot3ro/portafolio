@@ -50,6 +50,37 @@
     ],
     "projects": [
         {
+            "icon": "",
+            "title": "SmartAC",
+            "substitle": "Sistema IoT de Control de Aire Acondicionado",
+            "description": "Desarrollo de una solución IoT personalizada basada en ESP32 para el control de un aire acondicionado Hisense AP-12DR4SFJS1-W.\n\nEl sistema utiliza UART para leer el estado del equipo y el protocolo NEC para enviar comandos infrarrojos. La comunicación se gestiona mediante MQTT, con un servidor desplegado en Raspberry Pi, y una app Android como interfaz de usuario.\n\n",
+            "technologies": [
+                {
+                    "icon": "devicon-kotlin-plain",
+                    "name": "Kotlin"
+                },
+                {
+                    "icon": "devicon-cplusplus-plain",
+                    "name": "C++"
+                },
+                {
+                    "icon": "",
+                    "name": "IoT"
+                },
+                {
+                    "icon": "",
+                    "name": "ESP32"
+                },
+                {
+                    "icon": "",
+                    "name": "MQTT"
+                }
+            ],
+            "image": "",
+            "url": "",
+            "github": "https://github.com/cocot3ro/SmartAC"
+        },
+        {
             "icon": "smartphone",
             "title": "MiPastillero",
             "subtitle": "Proyecto de fin de grado",
